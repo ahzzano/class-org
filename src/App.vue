@@ -1,5 +1,12 @@
 <template>
-    Hello World!
+    <div style="display:flex">
+        <div>
+            Add Schedule Here
+        </div>
+        <div>
+            Schedule Shows Here
+        </div>
+    </div>
 </template>
 
 <script>
